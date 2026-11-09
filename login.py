@@ -1,1 +1,1 @@
-print("this is the login page")
+print("This is the login page")
